@@ -35,7 +35,7 @@ python app.py
 ## Demo
 
 **Refer [here](https://flightpriceprediction7.herokuapp.com/)**
-![demo](assets\img\demo.PNG)
+![demo](/assets/img/demo.PNG)
 
 ## Techstack Used
 
